@@ -1,0 +1,9 @@
+Este proyecto es un fan game no oficial.
+
+No esta afiliado, patrocinado ni aprobado por Capcom ni por los titulares de Resident Evil.
+
+Se publica con fines de preservacion, aprendizaje, investigacion sobre juegos Java/J2ME y homenaje a la era de los juegos moviles clasicos.
+
+Todos los nombres, marcas, personajes, conceptos y recursos reconocibles pertenecen a sus respectivos propietarios.
+
+Si algun titular de derechos solicita cambios o retiro del material, el proyecto podra ser modificado o removido.
